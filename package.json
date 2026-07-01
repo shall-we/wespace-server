@@ -28,7 +28,7 @@
     "jsonwebtoken": "^9.0.0",
     "lodash": "^4.17.11",
     "mime-types": "^2.1.24",
-    "mysql2": "^1.6.5",
+    "mysql2": "^3.9.7",
     "nodemon": "^2.0.20",
     "path": "^0.12.7",
     "rich-text": "^3.1.0",
